@@ -24,3 +24,7 @@ p {
      max-width: 500px;
      text-align: center;
 }
+/*add background*/
+body {
+    background-color: #faf9f6;
+}
